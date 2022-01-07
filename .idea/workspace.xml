@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94817d8b-df3a-4805-abca-eb1461b9888e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/next-crash-course/pages/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next-crash-course/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/next-crash-course/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next-crash-course/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/next-crash-course/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next-crash-course/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/next-crash-course/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641541850006</updated>
-      <workItem from="1641541851695" duration="2006000" />
+      <workItem from="1641541851695" duration="2194000" />
     </task>
     <servers />
   </component>
